@@ -28,7 +28,8 @@
       "question_12":"Lorem ipsum dolor sit amet",
       "send_emails":false,
       "agree":false,
-      "status":"por validar"    
+      "status":"por validar"  ,
+      "colaborators":"Empleado 1 de ahosoka" 
     },
     {
       "id":"2",
@@ -58,7 +59,8 @@
       "question_12":"Lorem ipsum dolor sit amet",
       "send_emails":false,
       "agree":false,
-      "status":"por validar"    
+      "status":"por validar",
+      "colaborators":"Empleado 2 de ahosoka" 
     },
     {
       "id":"3",
@@ -88,7 +90,8 @@
       "question_12":"Lorem ipsum dolor sit amet",
       "send_emails":false,
       "agree":false,
-      "status":"por validar"    
+      "status":"por validar",
+      "colaborators":"Empleado 3 de ahosoka"    
     },
     {
       "id":"4",
@@ -118,7 +121,8 @@
       "question_12":"Lorem ipsum dolor sit amet",
       "send_emails":false,
       "agree":false,
-      "status":"por validar"    
+      "status":"por validar",
+      "colaborators":"Empleado 4 de ahosoka"    
     },
     {
       "id":"5",
@@ -148,7 +152,8 @@
       "question_12":"Lorem ipsum dolor sit amet",
       "send_emails":false,
       "agree":false,
-      "status":"por validar"    
+      "status":"por validar",
+      "colaborators":"Empleado 5 de ahosoka"    
     },
     {
       "id":"6",
@@ -178,7 +183,8 @@
       "question_12":"Lorem ipsum dolor sit amet",
       "send_emails":false,
       "agree":false,
-      "status":"por validar"    
+      "status":"por validar",
+      "colaborators":"Empleado 6 de ahosoka"    
     }
   ]
 }
